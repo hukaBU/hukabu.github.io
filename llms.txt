@@ -1,0 +1,7 @@
+# hukabu.github.io
+
+> Test site for the ReachPlane Agent-Ready layer. It has one page.
+
+## Pages
+
+- [Home](https://hukabu.github.io/): the only page of this test site.

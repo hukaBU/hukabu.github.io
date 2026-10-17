@@ -1,0 +1,11 @@
+{
+  "site": "https://hukabu.github.io/",
+  "name": "GitHub verification test",
+  "purpose": "Test site for the ReachPlane Agent-Ready layer",
+  "pages": [
+    {
+      "url": "https://hukabu.github.io/",
+      "title": "Home"
+    }
+  ]
+}
