@@ -1,11 +1,11 @@
 {
-  "site": "https://hukabu.github.io/",
-  "name": "GitHub verification test",
-  "purpose": "Test site for the ReachPlane Agent-Ready layer",
-  "pages": [
-    {
-      "url": "https://hukabu.github.io/",
-      "title": "Home"
-    }
-  ]
+  "urls": {
+    "homepage": "https://hukabu.github.io",
+    "important_pages": []
+  },
+  "agent_endpoints": {
+    "llms_txt": "https://hukabu.github.io/llms.txt",
+    "well_known": "https://hukabu.github.io/.well-known/ai-context.json",
+    "agent_sitemap": "https://hukabu.github.io/agent/sitemap.xml"
+  }
 }
